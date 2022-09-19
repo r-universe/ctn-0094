@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DOPE",
+    "oncran": true
+  }
+]
