@@ -1,5 +1,9 @@
 [
   {
+    "package": "CTNote",
+    "oncran": true
+  },
+  {
     "package": "DOPE",
     "oncran": true
   }
