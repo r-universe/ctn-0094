@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DOPE"]
-	path = DOPE
-	url = https://github.com/ctn-0094/dope
-	shallow = true
-	registered = true
 [submodule "CTNote"]
 	path = CTNote
 	url = https://github.com/ctn-0094/ctnote
+	shallow = true
+	registered = true
+[submodule "DOPE"]
+	path = DOPE
+	url = https://github.com/ctn-0094/dope
 	shallow = true
 	registered = true
