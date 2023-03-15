@@ -1,10 +1,10 @@
 [
   {
-    "package": "CTNote",
+    "package": "DOPE",
     "oncran": true
   },
   {
-    "package": "DOPE",
+    "package": "CTNote",
     "oncran": true
   }
 ]
