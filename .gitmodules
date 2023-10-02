@@ -8,3 +8,6 @@
 [submodule "DOPE"]
 	path = DOPE
 	url = https://github.com/ctn-0094/dope
+[submodule "public.ctn0094data"]
+	path = public.ctn0094data
+	url = https://github.com/ctn-0094/public.ctn0094data
