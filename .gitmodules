@@ -11,3 +11,6 @@
 [submodule "public.ctn0094data"]
 	path = public.ctn0094data
 	url = https://github.com/ctn-0094/public.ctn0094data
+[submodule "public.ctn0094extra"]
+	path = public.ctn0094extra
+	url = https://github.com/ctn-0094/public.ctn0094extra
